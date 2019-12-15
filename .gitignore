@@ -1,0 +1,23 @@
+# editor temp files
+*~
+.*.sw?
+.sw?
+#*#
+DEADJOE
+
+# IDEA project settings
+.idea
+*.ipr
+*.iws
+*.iml
+
+
+#python
+venv/
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+.ipynb_checkpoints/
