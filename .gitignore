@@ -13,11 +13,5 @@ DEADJOE
 
 
 #python
-venv/
-bin/
-include/
-lib/
-lib64/
-share/
-pyvenv.cfg
+.venv/
 .ipynb_checkpoints/
