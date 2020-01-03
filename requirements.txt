@@ -1,7 +1,8 @@
 numpy
 pandas
 matplotlib
-keras
 scikit-learn
 xgboost
+keras
+tensorflow
 jupyterlab
