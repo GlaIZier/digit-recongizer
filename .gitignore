@@ -14,6 +14,6 @@ DEADJOE
 
 #python
 .venv/
-.logs/
+logs
 .ipynb_checkpoints/
 __pycache__
